@@ -19,9 +19,8 @@ Baixa/Média:
 	      eletroencefalograma vigilia
     - Ultrassonografia obstétrica (média)
     - Radiografia/rx (com ou sem laudo) (média)
-
-Fisioterapia 2a:
-  tipo serviço: fisioterapia distrito ressaca - FDRES
+    - Fisioterapia 2a:
+      tipo serviço: fisioterapia distrito ressaca - FDRES
 
 Mamografia não aparece no sistema.
 Aguardar contato.
