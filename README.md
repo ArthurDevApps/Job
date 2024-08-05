@@ -97,7 +97,7 @@ Guia retorno: 		não é necessário.
 Data retorno para 4/7 mas resultado do exame
 para levar sairia somente 19/7. Necessária a
 assinatura e justificativa na guia de retorno e deixar
-na pasta para que retorno seja reagendado. Se a pessoa
+na pasta para reagendamento. Se a pessoa
 não tiver a guia, imprimir novamente.
 
 Oftalmo risco cirúrgico p/ catarata
