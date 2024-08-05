@@ -25,37 +25,46 @@ Baixa/Média:
 Mamografia não aparece no sistema.
 Aguardar contato.
 
-Ecodopplercardiograma (eletro, id, cpf, sus, comp. endereço)
+Ecodopplercardiograma:
+
+	eletro, id, cpf, sus, comp. endereço
 
 Ecocardiograma para adultos:
-  eletro, id, cpf, sus, comp. endereço
+
+	eletro, id, cpf, sus, comp. endereço
 
 Ecocardiograma para crianças:
-  não precisa de eletro
-  responsável: id, cpf, sus, comp. endereço
-  criança:     id, cpf, sus
+
+	- não precisa de eletro
+  	- responsável: id, cpf, sus, comp. endereço
+	- menor:       id, cpf, sus
 
 Reabilitação Intelectual:
-  responsável: id, cpf, sus, comp. endereço
-  menor:       id, cpf, sus
+  
+	- responsável: id, cpf, sus, comp. endereço
+  	- menor:       id, cpf, sus
 
 Neurofibromatose:
-  responsável: id, cpf, sus, comp. endereço
-  menor:       id, cpf, sus
+
+	- responsável: id, cpf, sus, comp. endereço
+  	- menor:       id, cpf, sus
 
 Cirurgia pediatrica:
-  paciente 3 anos não precisa de documentos
 
-Validade exame sangue: 4 meses 120 dias
-Validade consulta:     2 meses 60  dias
+	paciente 3 anos não precisa de documentos
+
+Validade
+
+	sangue:   4 meses
+	consulta: 2 meses
 
 Pré-operatório:
   sangue
   eletro
 
-7hrs lab: lactose
+7h lab: lactose
 
-9h lab vdrl igg igm
+9h lab: vdrl igg igm
 
 Resultado TRM: equipe
 
@@ -67,31 +76,32 @@ Resultados lab: 12h às 17h
 
 PPD: 2a, 3a, 6a UBS ARPOADOR
 
-Local exame raspado:
+Local exame raspagem:
   rua antonio augusto 115,
   nossa senhora de fatima,
   centro de contagem,
   3391-1840
 
-Hosp municipal
-Hospital das clínicas UFMG
-Santa casa
-Hosp evangelico
-Odilon behrens
+Ok
+
+	Hosp municipal
+	Hospital das clínicas UFMG
+	Santa casa
+	Hosp evangelico
+	Odilon behrens
 
 Relatorio para tornar prioridade uma solicitação que está na fila:
   anotar, no relatório, o nº da solicitação e os dados da pessoa.
 
-sem vaga gestante lab:
+Sem vaga gestante lab:
   agendar p/ antes do próximo pré-natal
 
 Enf alguns sangue
 
-Perdeu psicologo no dia marcado:
-    reagendar equipe
+Guia
 
-Guia primeira consulta: necessário pedido.
-Guia retorno: 		não é necessário.
+	primeira consulta: necessário pedido.
+	retorno:   	   não é necessário.
 
 Data retorno para 4/7 mas resultado do exame
 para levar sairia somente 19/7. Necessária a
@@ -106,4 +116,5 @@ Oftalmo risco cirúrgico p/ catarata
   marcada por eles, agendar eletro no posto
   2 dias antes.
 
-
+Perdeu psic dia marcado:
+    reagendar equipe
