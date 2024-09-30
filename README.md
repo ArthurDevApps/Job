@@ -22,6 +22,9 @@ Baixa/Média:
     - Fisioterapia 2a:
       tipo serviço: fisioterapia distrito ressaca - FDRES
 
+Rx lombo-sacra e torácica: secretária.
+Rx c/ laudo: média.
+
 Mamografia não aparece no sistema.
 Aguardar contato.
 
@@ -52,6 +55,44 @@ Neurofibromatose:
 Cirurgia pediatrica:
 
 	paciente 3 anos não precisa de documentos
+
+Endocrino infantil:
+
+	não precisa de docs
+
+Avaliação auditiva:
+
+	xerox dos docs
+
+Fono nível secundário:
+
+	xeros dos docs
+
+Fonoclinica:
+
+	xerox dos docs
+
+ Reabilitação auditiva,
+ Reabilitação intelectual,
+ Psicologia 2a, Infertilidade:
+
+	docs
+
+ Infantil 2a:
+
+ 	CERIV
+
+Holter 24h:
+
+	xerox docs
+
+Covid c/ notificação:
+
+	UBS Colorado
+
+Dengue, chikungunya c/ notificação:
+
+	Lab 9h às 11h
 
 Validade
 
@@ -89,6 +130,16 @@ Ok
 	Santa casa
 	Hosp evangelico
 	Odilon behrens
+
+Transcrever:
+
+	Fhemig
+ 	Particular
+
+SUS não cobre:
+
+	Anti-mulleriano
+ 	Rx dentista
 
 Relatorio para tornar prioridade uma solicitação que está na fila:
   anotar, no relatório, o nº da solicitação e os dados da pessoa.
