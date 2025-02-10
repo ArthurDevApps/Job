@@ -169,3 +169,59 @@ Oftalmo risco cirúrgico p/ catarata
 
 Perdeu psic dia marcado:
     reagendar equipe
+
+especialidade: CER IV saude auditiva
+  xerox docs
+
+Avaliação auditiva: xerox docs
+
+Fono clínica: xerox docs
+
+Fono nível secundário: xerox docs
+
+exame Bera
+  preencher e colocar pasta
+
+videolaringoscopia criança
+  xerox docs da criança e responsável
+
+reabilitação intelectual criança
+  xerox docs e comp. endereço
+
+eletro ssa: ok
+
+CMI Maternidade SOLMV
+  exame sangue ok
+
+anti-mulleriano: ok
+
+RNI não precisa autorização
+
+FHEMIG: transcrever
+
+Ortopedista pediátrico: não precisa docs
+
+Endócrino infantil: não precisa de docs
+
+RTPCR covid: colorado às 09:00
+
+Holter 24h: xerox docs
+
+Santa casa bh: ok
+Santa casa bh: d, b12 no pedido: ok
+
+Espermograma: pessoa leva pedido no lab e marca lá
+
+Swab vaginal: pessoa leva pedido no lab e marca lá
+
+Cultura de strepto B: pessoa leva pedido no lab e marca lá
+
+Prefeitura bh singrad: transcrever
+
+Instituto de olhos ciências médicas: ok
+
+Centro oftalmologico de minas gerais
+plastica ocular: ok
+
+Hospital municipal de contagem: eles que
+marcam retorno
