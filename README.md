@@ -154,6 +154,36 @@ Guia
 	primeira consulta: necessário pedido.
 	retorno:   	   não é necessário.
 
+BK, Genex: lab com notificação
+
+Estudo urodinâmico não é auto custo
+
+Alto custo:
+  anti ccp
+  Ferritina
+
+Cultura de strepto b:
+  paciente colhe no posto e leva no lab
+
+TRM (tuberculose):
+  não precisa pedido, somente notificação
+
+Baars deve ter pedido
+
+PIPA: xerox docs criança e responsável
+
+Neuro pediatra não precisa xerox docs
+
+Hospital sofia feldman
+  estudo urodinâmico: ok
+
+Resultado dengue, chicungunya:
+  gerente
+
+Genética:
+  xerox docs
+  se criança, docs responsável também
+
 Data retorno para 4/7 mas resultado do exame
 para levar sairia somente 19/7. Necessária a
 assinatura e justificativa na guia de retorno e deixar
