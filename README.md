@@ -130,6 +130,7 @@ Ok
 	Santa casa
 	Hosp evangelico
 	Odilon behrens
+	CMI Maternidade (sangue e eletro ok)
 
 Transcrever:
 
@@ -183,6 +184,101 @@ Resultado dengue, chicungunya:
 Genética:
   xerox docs
   se criança, docs responsável também
+
+Teste de contato
+
+	ligar cerespe para agendar
+
+IMED tomografia de coerência óptica
+
+	não precisa xerox
+
+Teste pezinho
+
+  	docs físicos da mãe, criança e alta
+
+Enfermeira também encaminha para psicólogo
+
+OCT:
+
+	pasta.
+  	Se fez exames, xerox (Exames com menos de 1 ano).
+  	Se não, somente solicitação. 
+
+Pré-natal com ginecologista:
+
+	1 horário
+
+Vídeolaringoscopia
+
+	não precisa xerox
+
+Baar
+
+	agendar lab
+
+TRM com notificação
+
+	não precisa agendar.
+  	Colocar carimbo.
+
+Solicitação cadeira de rodas
+
+	xerox
+
+Solicitação cadeira de rodas elétrica
+
+	deve ter as medidas da pessoa
+
+Pé diabético
+
+	pasta
+
+Coombs indireto
+
+	exame sangue
+
+Path test
+	
+ 	marcar com alergista ou imunologista
+
+SUS não cobre
+
+	USG Morfológico, Ecoendoscopia, Colproteina fecal.
+
+Holter 24h
+
+	xerox
+
+Fertileuta?
+
+PIPA
+
+	xerox criança e responsável
+
+BERA
+
+	pasta
+
+Genética
+
+	Se adulto: xerox.
+	Se criança: xerox responsável e criança
+
+BK e Genex
+
+	lab com notificação
+
+Ressonância magnética
+
+	+60 anos deve ter exames de ureia e creatinina
+
+Médico posto tem acesso exame sangue dado no iria diniz?
+
+Paciente consultou CCE
+
+	ele(a) liga p/ marcar retorno
+
 
 Data retorno para 4/7 mas resultado do exame
 para levar sairia somente 19/7. Necessária a
